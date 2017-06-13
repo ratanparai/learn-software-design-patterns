@@ -1,0 +1,6 @@
+# C# build folders
+obj/
+bin/
+
+# Visual Studio 2015 cache/options directory
+.vs/
